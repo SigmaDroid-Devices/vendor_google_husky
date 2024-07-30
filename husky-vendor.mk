@@ -86,7 +86,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DevicePersonalizationPrebuiltPixel2023-v.U.14.playstore \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
